@@ -3,3 +3,4 @@
 *.app linguist-language=Clarion
 *.dct linguist-language=Clarion
 *.txa linguist-language=Clarion
+*.tpl linguist-language=Clarion
